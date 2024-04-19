@@ -1,5 +1,5 @@
 Please migrate and seed database using following command after changing DB configuration.
-Database used is Mysql.
+Database used is MySQL.
 
 php artisan migrate --seed
 
