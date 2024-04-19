@@ -1,10 +1,16 @@
 Please migrate and seed database using following command after changing DB configuration.
 Database used is Mysql.
 
+php artisan migrate --seed
+
 Different users with different roles.
+
 manager@gmail.com
+
 mechanic@gmail.com
+
 sales@gmail.com
+
 warehouse@gmail.com
 
 Password : athul@1234
